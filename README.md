@@ -65,7 +65,7 @@ Help Desk and Azure lab demonstrating cloud administration, resource management,
 
 Opened the Microsoft Azure portal and reviewed the Azure Home Dashboard before creating cloud resources.
 
-![Azure Home Dashboard](screenshots/01-azure-home-dashboard.png)
+![Azure Home Dashboard](screenshot/01-azure-home-dashboard.png)
 
 ---
 
@@ -73,7 +73,7 @@ Opened the Microsoft Azure portal and reviewed the Azure Home Dashboard before c
 
 Navigated to the Azure Resource Groups page to view and manage Azure resource groups.
 
-![Resource Groups Page](screenshots/02-resource-groups-page.png)
+![Resource Groups Page](screenshot/02-resource-groups-page.png)
 
 ---
 
@@ -81,7 +81,7 @@ Navigated to the Azure Resource Groups page to view and manage Azure resource gr
 
 Opened the `Darwin-RG-Lab01` Resource Group to review its configuration after deployment.
 
-![Resource Group Overview](screenshots/03-resource-group-overview.png)
+![Resource Group Overview](screenshot/03-resource-group-overview.png)
 
 ---
 
@@ -89,7 +89,7 @@ Opened the `Darwin-RG-Lab01` Resource Group to review its configuration after de
 
 Opened the Tags section for the Resource Group to review Azure tagging options for organization, cost tracking, and management.
 
-![Resource Group Tags](screenshots/04-resource-group-tags.png)
+![Resource Group Tags](screenshot/04-resource-group-tags.png)
 
 ---
 
@@ -97,7 +97,7 @@ Opened the Tags section for the Resource Group to review Azure tagging options f
 
 Opened the Activity Log to review administrative events and resource activity.
 
-![Resource Group Activity Log](screenshots/05-resource-group-activity-log.png)
+![Resource Group Activity Log](screenshot/05-resource-group-activity-log.png)
 
 ---
 
